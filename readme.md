@@ -43,7 +43,7 @@ I'm **Aditya Pratap** — a Biotechnology undergraduate turned **Creative Techno
 
 | Project | What it is | Stack | Live |
 |---|---|---|---|
-| **[Portfolio](https://github.com/adityapratap0077-cloud/My-Portfolio-)** | Cinematic personal portfolio with a full editorial design system | React, Tailwind CSS | [Demo](https://my-portfolio.vercel.app) |
+| **[Portfolio](https://github.com/adityapratap0077-cloud/My-Portfolio)** | Cinematic personal portfolio with a full editorial design system | React, Tailwind CSS | [Demo](https://my-portfolio.vercel.app) |
 | **[AIIMS Biotechnology](https://github.com/adityapratap0077-cloud/aiims-biotechnology)** | AI-powered M.Sc. Biotech study command center — planner, syllabus tracker, mistake log, Gemini AI lab | TypeScript, Vite, Gemini AI | [Demo](https://aiims-biotechnology.vercel.app) |
 | **[CulinaryCore](https://github.com/adityapratap0077-cloud/CulinaryCore)** | Premium recipe discovery platform — meal planning & Pantry Chef AI | JavaScript, Express, Gemini AI | [Demo](https://culinarycore.vercel.app) |
 | **[Aditya Crates](https://github.com/adityapratap0077-cloud/Aditya-crates)** | Digital products storefront | Next.js, TypeScript | [Demo](https://aditya-crates.vercel.app) |
