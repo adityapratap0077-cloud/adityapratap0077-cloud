@@ -48,6 +48,7 @@ I'm **Aditya Pratap** — a Biotechnology undergraduate turned **Creative Techno
 | **[CulinaryCore](https://github.com/adityapratap0077-cloud/CulinaryCore)** | Premium recipe discovery platform — meal planning & Pantry Chef AI | JavaScript, Express, Gemini AI | [Demo](https://culinarycore.vercel.app) |
 | **[Aditya Crates](https://github.com/adityapratap0077-cloud/Aditya-crates)** | Digital products storefront | Next.js, TypeScript | [Demo](https://aditya-crates.vercel.app) |
 | **[Monumenta](https://github.com/adityapratap0077-cloud/Monumenta-heritage)** | Immersive heritage-restoration concept site | HTML, CSS, JavaScript | [Demo](https://monumenta-heritage-adityapratap0077-cloud.vercel.app) |
+| **[ReelForge](https://github.com/adityapratap0077-cloud/reelforge)** | Cinematic AI promo reels for local businesses — $40, 48-hour delivery | HTML, Tailwind, AI video | [Demo](https://reelforge-opal.vercel.app) |
 | **[RamNayan Dairy](https://github.com/adityapratap0077-cloud/RamNayan-Dairy)** | Dairy brand website — products, heritage, trust | HTML, CSS, JavaScript | [Demo](https://ramnayan-dairy.vercel.app) |
 
 ---
