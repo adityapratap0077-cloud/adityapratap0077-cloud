@@ -6,30 +6,73 @@
   <img src="https://komarev.com/ghpvc/?username=adityapratap0077-cloud&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
 
-<img src="banner-biotech.png" alt="Aditya Pratap — Lab → Code" width="100%" />
+<img src="banner-motion.gif" alt="Aditya Pratap, Motion Designer" width="100%" />
 
 # ADITYA PRATAP
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A5A3A0&center=true&vCenter=true&width=800&lines=Creative+Technologist;B.Sc.+Honors+Biotechnology+%40+Bundelkhand+University;AI+x+Web+x+Design+x+Science;Lab+to+Code" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A5A3A0&center=true&vCenter=true&width=800&lines=Motion+Designer;Shorts,+UGC+ads+%26+promo+reels;Creative+Technologist;I+cut+motion+that+holds+a+thumb+still" alt="Typing" />
 
-`GORAKHPUR, INDIA — OPEN TO WORK`
+`GORAKHPUR, INDIA · OPEN TO WORK`
 
-[Portfolio](https://my-portfolio-khaki-gamma-94.vercel.app) • [Email](mailto:adityapratap0077@gmail.com) • [Resume](./Resume.pdf)
+[Portfolio](https://my-portfolio-khaki-gamma-94.vercel.app) • [Showreel](https://my-portfolio-khaki-gamma-94.vercel.app#motion) • [Instagram](https://instagram.com/dyafterdark_) • [Email](mailto:adityapratap0077@gmail.com) • [Resume](./Resume.pdf)
 
 </div>
 
 ---
 
-### About
+### Motion
 
-I'm **Aditya Pratap** — a Biotechnology undergraduate turned **Creative Technologist**. I bring the rigor of the lab — *hypothesis → experiment → iterate* — to building intelligent, editorial web experiences at the intersection of **AI, web, design, and science**.
+| | | |
+|---|---|---|
+| [![Title card](reel-hook.gif)](https://my-portfolio-khaki-gamma-94.vercel.app#motion) | [![The arsenal](reel-arsenal.gif)](https://my-portfolio-khaki-gamma-94.vercel.app#motion) | [![Made to move](reel-pulse.gif)](https://my-portfolio-khaki-gamma-94.vercel.app#motion) |
 
-> **B.Sc. Honors Biotechnology (5th Semester)**, Bundelkhand University, Jhansi
-> **Independent builder since 2024** — AI-assisted development, modern web stacks, cinematic UI
+<p align="center"><a href="https://my-portfolio-khaki-gamma-94.vercel.app#motion">Watch the full showreel</a></p>
 
 ---
 
-### Tech Stack
+### About
+
+I'm **Aditya Pratap**, a **motion designer** who also ships real software. My day job is making brands felt in 3 seconds: shorts, UGC ads, and promo reels cut for the feed. My other day job is building the web products those brands live on.
+
+> **Motion design studio:** VEYRO Motion & Visuals
+>
+> **Also:** B.Sc. Honors Biotechnology, Bundelkhand University (final year). The lab taught me process; the timeline taught me taste.
+
+---
+
+### What I do
+
+- **Motion design**: shorts, UGC ads, promo reels, launch videos. Hook in 3 seconds or it doesn't ship.
+- **Frontend builds**, editorial, cinematic websites. No templates, no AI slop.
+- **AI products**, chatbots, tools, and utilities people actually open twice.
+
+---
+
+### Shipped & live
+
+| Project | What it is | Live |
+|---|---|---|
+| **ReelForge** | AI promo-reel service, $40 reels, 48h delivery | [Site](https://reelforge-opal.vercel.app) |
+| **BanaoBot** | WhatsApp chatbot builder for small businesses | [Site](https://banaobot.onrender.com) |
+| **PortfolioForge** | GitHub username to portfolio website, 10 themes | [Site](https://portfolioforge-delta.vercel.app) |
+| **SarkariRadar** | Every government scheme you're eligible for, in 60 seconds | [Site](https://sarkari-radar.vercel.app) |
+| **AQI Alarm** | Live air quality for Indian cities, decision-first | [Site](https://aqi-alarm.vercel.app) |
+| **Invertis Mart** | Student marketplace, buy, sell, request | [Site](https://invertis-mart.vercel.app) |
+
+---
+
+### More builds
+
+| Project | What it is | Link |
+|---|---|---|
+| **ASLI** | AI custom streetwear studio, design your own garments | [Repo](https://github.com/adityapratap0077-cloud/asli) |
+| **BioVision Lab** | Interactive biology lab, DNA, heart, cell explorers | [Demo](https://biovision-lab.vercel.app) |
+| **CulinaryCore** | Premium recipe platform with Pantry Chef AI | [Demo](https://culinarycore.vercel.app) |
+| **RamNayan Dairy** | Dairy brand website, products, heritage, trust | [Demo](https://ramnayan-dairy.vercel.app) |
+
+---
+
+### Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23060608?style=for-the-badge&labelColor=%23060608&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%23060608?style=for-the-badge&labelColor=%23060608&logo=react&logoColor=white)
@@ -38,49 +81,13 @@ I'm **Aditya Pratap** — a Biotechnology undergraduate turned **Creative Techno
 ![Node.js](https://img.shields.io/badge/Node.js-%23060608?style=for-the-badge&labelColor=%23060608&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23060608?style=for-the-badge&labelColor=%23060608&logo=python&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-%23060608?style=for-the-badge&labelColor=%23060608&logo=google&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23060608?style=for-the-badge&labelColor=%23060608&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%23060608?style=for-the-badge&labelColor=%23060608&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23060608?style=for-the-badge&labelColor=%23060608&logo=vercel&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-%23060608?style=for-the-badge&labelColor=%23060608&logo=ffmpeg&logoColor=white)
 
 ---
 
-### Flagship
-
-| Project | What it is | Stack | Live |
-|---|---|---|---|
-| **[ASLI](https://github.com/adityapratap0077-cloud/asli)** | AI custom streetwear studio — describe a graphic, AI draws it, printed on demand in India | Next.js, TypeScript, Tailwind | [Demo](https://asli-delta.vercel.app) |
-| **[BanaoBot](https://github.com/adityapratap0077-cloud/banaobot)** | No-code WhatsApp chatbot builder — auto-catalogue from a menu photo, Gemini AI brain, Hindi/English/Hinglish | Python, Flask, Gemini AI | [Demo](https://banaobot.onrender.com) |
-| **[ReelForge](https://github.com/adityapratap0077-cloud/reelforge)** | Cinematic AI promo reels for local businesses — $40, 48-hour delivery | HTML, Tailwind, AI video | [Demo](https://reelforge-opal.vercel.app) |
-| **[BizOS](https://github.com/adityapratap0077-cloud/bizos)** | Zero-cost business OS — leads, customers, tasks, bookings, invoices | Next.js, Supabase, TypeScript | [Demo](https://bizos-gamma.vercel.app) |
-| **[PortfolioForge](https://github.com/adityapratap0077-cloud/portfolioforge)** | Portfolio generator — GitHub API import, 10 themes, auth-gated customize & download | JavaScript, GitHub API, Supabase | [Demo](https://portfolioforge-delta.vercel.app) |
-
----
-
-### Built & Live
-
-| Project | What it is | Stack | Live |
-|---|---|---|---|
-| **[BioVision Lab](https://github.com/adityapratap0077-cloud/biovision-lab)** | Interactive biology lab — DNA module, heart explorer, cell explorer, quiz | JavaScript | [Demo](https://biovision-lab.vercel.app) |
-| **[AmplifyLab](https://github.com/adityapratap0077-cloud/amplifylab)** | PCR simulation for biotech learners | JavaScript | [Demo](https://amplifylab.vercel.app) |
-| **[CulinaryCore](https://github.com/adityapratap0077-cloud/CulinaryCore)** | Premium recipe platform — meal planning, Pantry Chef AI | React, Tailwind, Node.js, Gemini | [Demo](https://culinarycore.vercel.app) |
-| **[My-Portfolio](https://github.com/adityapratap0077-cloud/My-Portfolio)** | Cinematic personal portfolio with a full editorial design system | HTML, CSS, JavaScript | [Demo](https://my-portfolio-khaki-gamma-94.vercel.app) |
-| **[Biotech Study Planner](https://github.com/adityapratap0077-cloud/aiims-biotechnology)** | Date-wise study planner — plans, revision tracking, mistake log, Gemini AI lab | TypeScript, Vite, Gemini AI | [Repo](https://github.com/adityapratap0077-cloud/aiims-biotechnology) |
-
----
-
-### Concepts & Client Work
-
-| Project | What it is | Stack | Live |
-|---|---|---|---|
-| **[Monumenta](https://github.com/adityapratap0077-cloud/Monumenta-heritage)** | AI heritage-restoration concept — restoring history's greatest treasures | HTML, CSS, JavaScript | [Demo](https://monumenta-heritage-adityapratap0077-cloud.vercel.app) |
-| **[RamNayan Dairy](https://github.com/adityapratap0077-cloud/RamNayan-Dairy)** | Dairy brand website — products, heritage, trust | HTML, CSS, JavaScript | [Demo](https://ramnayan-dairy.vercel.app) |
-| **[Aditya Crates](https://github.com/adityapratap0077-cloud/Aditya-crates)** | Digital-products storefront concept | Next.js, TypeScript | [Demo](https://aditya-crates.vercel.app) |
-| **[The Busy Beginner Kitchen](https://github.com/adityapratap0077-cloud/the-busy-beginner-kitchen)** | Beginner cookbook concept site | HTML, CSS, JavaScript | [Demo](https://the-busy-beginner-kitchen.vercel.app) |
-| **[Atelier](https://github.com/adityapratap0077-cloud/atelier-by-aditya-pratap)** | Design atelier concept | HTML, CSS, JavaScript | [Demo](https://atelier-by-aditya-pratap.vercel.app) |
-
----
-
-### GitHub Stats
+### GitHub stats
 
 <div align="center">
 
@@ -91,10 +98,11 @@ I'm **Aditya Pratap** — a Biotechnology undergraduate turned **Creative Techno
 
 ---
 
-### Let's Connect
+### Let's connect
 
+- **Instagram:** [@dyafterdark_](https://instagram.com/dyafterdark_), motion design work, DMs open
 - **Email:** [adityapratap0077@gmail.com](mailto:adityapratap0077@gmail.com)
 - **Portfolio:** [my-portfolio-khaki-gamma-94.vercel.app](https://my-portfolio-khaki-gamma-94.vercel.app)
 - **Resume:** [Download PDF](./Resume.pdf)
 
-*Open to internships, freelance projects, and collaborations at the intersection of tech & design.*
+*Open to motion design work, internships, and freelance builds.*
