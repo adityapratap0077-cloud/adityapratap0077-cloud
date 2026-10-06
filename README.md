@@ -18,21 +18,29 @@
 
 </div>
 
----
+<img src="divider.svg" width="100%" height="14" alt="" />
 
-### Motion
+### Selects
 
-| | | |
+| `00:00` — the hook | `00:05` — the arsenal | `00:10` — the pulse |
 |---|---|---|
 | [![Title card](reel-hook.gif)](https://my-portfolio-khaki-gamma-94.vercel.app#motion) | [![The arsenal](reel-arsenal.gif)](https://my-portfolio-khaki-gamma-94.vercel.app#motion) | [![Made to move](reel-pulse.gif)](https://my-portfolio-khaki-gamma-94.vercel.app#motion) |
+| Name lands on the downbeat. | Three disciplines, one cut. | Type breathes with the track. |
 
-<p align="center"><a href="https://my-portfolio-khaki-gamma-94.vercel.app#motion">Watch the full showreel</a></p>
+<p align="center"><a href="https://my-portfolio-khaki-gamma-94.vercel.app#motion">Watch the full 15-second showreel</a></p>
 
 ---
 
 ### About
 
 I'm **Aditya Pratap**, a **motion designer** who also ships real software. My day job is making brands felt in 3 seconds: shorts, UGC ads, and promo reels cut for the feed. My other day job is building the web products those brands live on.
+
+I work in the 12 principles: anticipation before every reveal, easing on everything that moves, payoff in the first 3 seconds.
+
+<p align="center">
+  <img src="ease.svg" alt="easing curve" />
+  <br/><em>how everything I make moves</em>
+</p>
 
 > **Motion design studio:** VEYRO Motion & Visuals
 >
@@ -46,7 +54,7 @@ I'm **Aditya Pratap**, a **motion designer** who also ships real software. My da
 - **Frontend builds**, editorial, cinematic websites. No templates, no AI slop.
 - **AI products**, chatbots, tools, and utilities people actually open twice.
 
----
+<img src="divider.svg" width="100%" height="14" alt="" />
 
 ### Shipped & live
 
@@ -96,7 +104,7 @@ I'm **Aditya Pratap**, a **motion designer** who also ships real software. My da
 
 </div>
 
----
+<img src="divider.svg" width="100%" height="14" alt="" />
 
 ### Let's connect
 

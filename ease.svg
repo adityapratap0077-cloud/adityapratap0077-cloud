@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="72" viewBox="0 0 220 72">
+  <line x1="10" y1="62" x2="210" y2="62" stroke="#30363d" stroke-width="1"/>
+  <line x1="10" y1="62" x2="10" y2="10" stroke="#30363d" stroke-width="1"/>
+  <path d="M10,62 C90,62 60,10 210,10" stroke="#D63A2F" stroke-width="2.5" fill="none"
+        stroke-dasharray="260" stroke-dashoffset="260" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="260" to="0" dur="1.6s" fill="freeze"/>
+  </path>
+  <circle cx="10" cy="62" r="4" fill="#F2F0EB"/>
+  <circle cx="210" cy="10" r="4" fill="#D63A2F">
+    <animate attributeName="r" values="4;6;4" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
