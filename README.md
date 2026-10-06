@@ -1,5 +1,11 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/adityapratap0077-cloud?style=flat-square&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Freelance-brightgreen?style=flat-square" alt="Open to work" />
+  <img src="https://komarev.com/ghpvc/?username=adityapratap0077-cloud&style=flat-square&label=Profile+views" alt="Profile views" />
+</p>
+
 <img src="banner-biotech.png" alt="Aditya Pratap — Lab → Code" width="100%" />
 
 # ADITYA PRATAP
